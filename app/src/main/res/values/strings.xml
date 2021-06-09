@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDo-Firebase</string>
+    <string name="header">TODOS</string>
+    <string name="add">ADD</string>
+    <string name="todo">Todo</string>
+    <string name="update">Update</string>
+    <string name="close">Close</string>
+</resources>
