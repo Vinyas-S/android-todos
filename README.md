@@ -1,6 +1,6 @@
 # TodoApp
 
-This project demonstrates the usage of
+This project demonstrates the usage of :bowtie:
 ---
 
 Material Design <br/>
