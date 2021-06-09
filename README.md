@@ -1,9 +1,9 @@
 # TodoApp
 
-##This project demonstrates the usage of
+This project demonstrates the usage of
 ---
 
-React Hooks (useEffect, useState)
+1.React Hooks (useEffect, useState)
 Material UI Button and TextBox
 Bootstrap Modal
 Material UI Snackbar
