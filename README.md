@@ -1,12 +1,12 @@
-# TodoApp
+# TodoApp :bowtie:
 
-This project demonstrates the usage of :bowtie:
+This project demonstrates the usage of
 ---
 
-Material Design <br/>
-Recycler / Card Views <br/>
-Recycler Adapters <br/>
-View Model <br/>
-SQLite <br/>
+1.Material Design <br/>
+2.Recycler / Card Views <br/>
+3.Recycler-Adapter<br/>
+4.View Holder/Methods(onCreateViewHolder,onBindViewHolder) <br/>
+5.SQLite Database <br/>
 
 
